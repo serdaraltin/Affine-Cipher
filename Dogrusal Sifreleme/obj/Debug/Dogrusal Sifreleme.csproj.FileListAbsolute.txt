@@ -1,0 +1,9 @@
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\bin\Debug\Dogrusal Sifreleme.exe.config
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\bin\Debug\Dogrusal Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\bin\Debug\Dogrusal Sifreleme.pdb
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal Sifreleme.csprojResolveAssemblyReference.cache
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal_Sifreleme.Form1.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal_Sifreleme.Properties.Resources.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal Sifreleme.csproj.GenerateResource.Cache
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Dogrusal Sifreleme\Dogrusal Sifreleme\obj\Debug\Dogrusal Sifreleme.pdb
