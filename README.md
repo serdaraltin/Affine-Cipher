@@ -39,7 +39,7 @@ Bu şifreleme yöntemine saldırı için frekans analizi yöntemi kullanılabili
 
 
 ------------
-### [Meyta - Kriptoloji 4 - Doğrusal Şifreleme(Affine Cipher)](https://www.youtube.com/watch?v=tFLuU_gBk3k"Kriptoloji 4 - Doğrusal Şifreleme(Affine Cipher)")
+### [Meyta - Kriptoloji 4 - Doğrusal Şifreleme(Affine Cipher)](https://www.youtube.com/watch?v=tFLuU_gBk3k "Kriptoloji 4 - Doğrusal Şifreleme(Affine Cipher)")
 ![Meyta - Kriptoloji 2 - Sezar Şifreleme](https://github.com/serdaraltin/Affine-Cipher/blob/master/Dogrusal%20Sifreleme/bin/Debug/On%20Izleme.jpg)
 
 ------------
